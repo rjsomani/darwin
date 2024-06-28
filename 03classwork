@@ -1,0 +1,4 @@
+friend_names= ['Ram', 'Sima', 'Kabita','Shaym', 'krishna']
+friend_address = ['USA', 'Kathmandu', 'Pokhara', 'Biratnagar', 'Australia']
+for i in range(len(friend_names)):
+    print(f"{friend_names[i]} lives in {friend_address[i]}.")
